@@ -1,9 +1,7 @@
 <!-- Banner (optional, can be an image or just text) -->
-<h1 align="center">ElijahCodes</h1>
+<h1 align="center">William Musselle</h1>
 <p align="center">
   <b>Software Engineer • Cyber Security • Game Development Tools</b><br>
-  <a href="https://github.com/YOUR-GITHUB">GitHub</a> • 
-  <a href="mailto:YOUR-EMAIL">Email</a> • 
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 </p>
 
