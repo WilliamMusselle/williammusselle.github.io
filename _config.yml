@@ -1,3 +1,19 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+collections:
+  projects:
+    output: true        # generate standalone pages
+    permalink: /projects/:slug/
+
+# (optional) nice URLs and a default theme var you might already have
+permalink: pretty
+
+# (optional) site nav to surface Projects in your header if your theme supports it
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
