@@ -50,11 +50,6 @@
 
 ---
 
-## 📂 More Projects  
-🔗 [Browse all repositories on GitHub](#)  
-
----
-
 ## 🕹 About Me  
 I’m a software engineer with a **Master’s in Software Engineering** and a **Bachelor’s in Cyber Security**.  
 Between my degrees, I worked as an **IT Support Analyst** for over a year, gaining real-world IT operations and troubleshooting experience.  
