@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects  
 
 ### 🔒 Kyber Password Manager (MSc Project)  
-**Tech:** Python, Tkinter, SQLite, Kyber (PQC), AES-256  
+**Tech:** ![Python](https://img.shields.io/badge/Python-3.11-blue), Tkinter, SQLite, Kyber (PQC), AES-256  
 - Secure desktop password manager with GUI.  
 - Implements hybrid post-quantum cryptography (Kyber + AES-256).  
 - Encrypted storage in SQLite, deterministic key generation.  
@@ -18,7 +18,8 @@
 ---
 
 ### 🦊 Unreal Engine Serious Game (Zoo Quiz Project)  
-**Tech:** Unreal Engine 4.27, Blueprints  
+**Tech:** ![Unreal Engine](https://img.shields.io/badge/Unreal-4.27-black?logo=unrealengine)
+, Blueprints  
 - First-person educational game with interactive animal info zones.  
 - Integrated end-of-level quiz system and scoring.  
 - Gameplay logic, UI, and 3D environment design.  
@@ -26,7 +27,7 @@
 ---
 
 ### 🤖 Discord Bot  
-**Tech:** Python, MongoDB, MERN stack integration  
+**Tech:** ![Python](https://img.shields.io/badge/Python-3.11-blue), ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb), MERN stack integration  
 - Discord bot with ticketing, polls, notification roles.  
 - Dashboard integration via MERN web app.  
 - Migrated from SQLite to MongoDB for scalable config storage.  
