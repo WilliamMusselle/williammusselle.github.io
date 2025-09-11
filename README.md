@@ -2,7 +2,7 @@
 <h1 align="center">William Musselle</h1>
 <p align="center">
   <b>Software Engineer • Cyber Security • Game Development Tools</b><br>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/williammusselle/">LinkedIn</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 JevuBot – Discord Bot  
+### 🤖 Discord Bot  
 **Tech:** Python, MongoDB, MERN stack integration  
 - Discord bot with ticketing, polls, notification roles.  
 - Dashboard integration via MERN web app.  
